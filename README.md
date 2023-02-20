@@ -1,0 +1,2 @@
+# ADFTraining
+Azure training repository
