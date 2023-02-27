@@ -1,0 +1,9 @@
+{
+	"name": "Itismyveryfirstinstance",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af969f41-8a7b-4f27-ae4c-88fa982d1fb2",
+		"tenantId": "4a21e7be-8c9b-4fcd-abe9-630372e12a6d"
+	}
+}

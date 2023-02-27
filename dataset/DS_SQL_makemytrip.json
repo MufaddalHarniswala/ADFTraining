@@ -1,0 +1,20 @@
+{
+	"name": "DS_SQL_makemytrip",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureSqlDatabase1",
+			"type": "LinkedServiceReference"
+		},
+		"folder": {
+			"name": "training"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "makemytrip"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
